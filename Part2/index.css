@@ -53,3 +53,12 @@ section span:nth-of-type(3) {
   width: 100px;
   border: 1px solid #000;
 }
+
+#clicker {
+  height: 100px;
+  margin-top: 125px;
+}
+
+#refresh {
+  margin-left: 20px;
+}
